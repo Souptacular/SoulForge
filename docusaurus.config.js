@@ -80,7 +80,7 @@ module.exports = {
             },
             {
               label: 'Grants Community Telegram Channel',
-              href: 'https://matrix.to/#/!XpynPDLusWUWfDpaqr:matrix.org?via=web3.foundation&via=matrix.org&via=matrix.parity.io',
+              href: 't.me/grants-community',
             },
           ],
         },
