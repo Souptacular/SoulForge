@@ -45,7 +45,7 @@ const sidebars = {
     {
       type: 'doc',
       label: '❓ FAQ',
-      id:'applications/faq'
+      id:'docs/faq'
     },
   ]
 };
