@@ -40,7 +40,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'docs/introduction',
+          docId: 'docs/zkbankai',
           position: 'right',
           label: 'Docs',
         },
