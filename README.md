@@ -1,4 +1,4 @@
-# SoulForge Grants Program<!-- omit in toc -->
+# SoulForge<!-- omit in toc -->
 
 - [:wave: Introduction](#wave-introduction)
   - [Guidelines](#guidelines)
@@ -22,17 +22,19 @@
 
 ## :wave: Introduction
 
-As part of our commitment to promoting the zkBankai ecosystem, we offer a comprehensive grants program focused on funding software development and research efforts related to **Plonky2, Plonky3, and Circom**. For more information about zkBankai, please visit the [About page](https://zkbankai.network/about/) on our website.
+As part of our commitment to [zk] zero-knowledge landscape, we are amped to bring a comprehensive grants program focused on Supporting development, research and educaion efforts related to **Plonky3, and Circom** Supported by **Polygon Labs 💜**.
+
+ For more information about zkBankai, please visit the [About page](https://zkbankai.network/about/) on our website.
 
 ### Guidelines
 
-Anyone is welcome to apply for a grant. Projects funded through our programs are broad in scope, but our focus lies on strong **technical** projects that add value to the ecosystem.
+Anyone is welcome to apply for a grant. Projects funded through this program [ SoulForge] are broad in scope, but our focus lies on strong **technical** projects that are keen to expore and build with **Plonky3, and Circom**
 
 Generally, your project will have better chances to be accepted if:
 
-- It presents a **well-researched** or tested concept, for which, ideally, you are able to show some prior work.
-- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side, additional funding sources, or an existing business model.
-- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You will be asked to provide the GitHub profiles of your team members as part of your application, which we will examine for past activity and code quality. Naturally, you can also link to projects on other platforms.
+- It presents a **well-researched/detailed** thoughts, for which, ideally, you are able to show some prior work.
+- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side.
+- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You maybe asked to provide the GitHub profiles of your team members as part of your application
 - Your application is **rich in technical details** and well-defined.
 - You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
 
@@ -55,13 +57,13 @@ Finally, we take licensing and the right of all teams in and outside the ecosyst
 
 An overview of existing projects in the zkBankai Technology Stack, along with broad project ideas we would potentially be interested in funding, can be found [here](https://wiki.zkbankai.network/docs/build-open-source), as well as a list of previously accepted applications [here](https://github.com/zkbankai/SoulForge/blob/master/applications/index.md).
 
-Finally, you don't need to start your own project in order to be eligible for a grant. Instead, some teams choose to port existing work to Plonky2, Plonky3, or Circom, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project. See the [Maintenance Grants section](#hammer_and_wrench-maintenance-grants) for more info.
+Finally, you don't need to start your own project in order to be eligible for a grant. Instead, some teams choose to port existing work to Plonky3, or Circom, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project. See the [Maintenance Grants section](#hammer_and_wrench-maintenance-grants) for more info.
 
 If you have a **good concept of the technical challenges** that your idea entails and would like feedback/input before submitting it, you can send us an [email](mailto:gm@zkbankai.com) and tell us about it.
 
 ### Support
 
-The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. You can find general documentation and more information on Plonky2, Plonky3, and Circom on the [Developer Hub](https://zkbankai.network/developer-hub), and we encourage you to join the [community](https://zkbankai.network/community) in order to get help with specific issues or to stay up to date with the most recent developments.
+The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. You can find general documentation and more information on Plonky3, and Circom on the [Developer Hub](https://zkbankai.network/developer-hub), and we encourage you to join the [community](https://zkbankai.network/community) in order to get help with specific issues or to stay up to date with the most recent developments.
 
 For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
 
@@ -69,15 +71,10 @@ For questions about the grants program itself, see our [FAQ](docs/faq.md#frequen
 
 #### SoulForge Grants Committee<!-- omit in toc -->
 
-The committee consists of individuals who know the funding priorities of the zkBankai ecosystem and is responsible for evaluating grant applications and providing feedback on these.
+The committee consists of individuals and Org, With our aim to forster more advancement and exploration to [**Plonky3, and Circom**] we have an indipendent board of individuals commited to the advancement of zkBankai ecosystem and is responsible for evaluating grant applications and providing feedback on these.
 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
-- [Ayush Bhadauria](#)
-- [Abhishek Sira Chandrashekar](#)
-- [Rishabh Gupta](#)
-- [Aman](#)
-- [Aviral](#)
 - TBD
 - TBD
 
