@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Guidelines
 
-While applications are open to all, the SoulForge grants program prioritizes projects with a **strong technical focus** that demonstrably add value to the plonky2, plonky3 or circom ecosystem. Furthermore, successful applicants will be expected to present a solid and compelling long-term roadmap, supported by evidence of the project's significance to the community. This could include:
+While applications are open to all, the SoulForge grants program prioritizes projects with a **strong technical focus** that demonstrably add value to the plonky3 or circom ecosystem. Furthermore, successful applicants will be expected to present a solid and compelling long-term roadmap, supported by evidence of the project's significance to the community. This could include:
 
 - Research-oriented projects: Demonstrated significance to the community and potential impact through academic publications or community engagement metrics.
 - Open-source projects: Proven experience in building strong communities, evidenced by user adoption, active development contributions, and community engagement initiatives.

@@ -47,6 +47,11 @@ const sidebars = {
       label: '❓ FAQ',
       id:'docs/faq'
     },
+    {
+      type: 'doc',
+      label: '🌍 Open Source License',
+      id:'docs/opensource'
+    },
   ]
 };
 

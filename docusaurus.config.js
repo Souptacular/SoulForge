@@ -6,8 +6,8 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'SoulForge Rewards Program',
-  tagline: 'Designed to incentivize and reward innovative developers working on Plonky2, Plonky3, and Circom.',
+  title: 'SoulForge',
+  tagline: 'Designed to incentivize and reward innovative developers working on Plonky3, and Circom.',
   url: 'https://soulforge.zkbankai.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',    // Revert back to 'throw' once initial release is up
@@ -34,7 +34,7 @@ module.exports = {
     navbar: {
       title: 'SoulForge Program',
       logo: {
-        alt: 'SoulForge Grants Program',
+        alt: 'SoulForge Program',
         src: 'img/zk.png',
       },
       items: [
@@ -106,7 +106,7 @@ module.exports = {
         docs: {
           path: '.',
           routeBasePath: '/', 
-          showLastUpdateAuthor: true,
+          showLastUpdateAuthor: false,
           showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
           beforeDefaultRehypePlugins: [

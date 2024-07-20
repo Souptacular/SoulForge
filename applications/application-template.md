@@ -17,7 +17,7 @@ Please provide the following:
 
 - If the name of your project is not descriptive, a tagline (one-sentence summary).
 - A brief description of your project.
-- An indication of how your project relates to / integrates into plonky2, plonky3 or circom.
+- An indication of how your project relates to / integrates into plonky3 or circom.
 - An indication of why your team is interested in creating this project.
 
 ### Project Details
@@ -34,7 +34,7 @@ We expect teams to already have a solid idea about their project's expected fina
 
 ### Ecosystem Fit
 
-Help us locate your project in the plonky2, plonky3 or circom landscape and what problems it tries to solve by answering each of these questions:
+Help us locate your project in the plonky3 or circom landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
 - Who is your target audience?
