@@ -4,9 +4,9 @@
 
 ## Team Information
 
-- **Team Name:** (e.g., JsonCorp)
+- **Team Name:** (e.g., Hasira)
 - **Payment Details:**
-  - **USDC/USDT:** Please provide a KYC/AML verified wallet address for USDC or USDT payments.
+  - **USDC/USDT:** Wallet address for USDC or USDT payments [ We may require for the address to be KYC/AML verified ] 
 
 ## Project Overview :page_facing_up:
 
@@ -17,7 +17,7 @@ Please provide the following:
 
 - If the name of your project is not descriptive, a tagline (one-sentence summary).
 - A brief description of your project.
-- An indication of how your project relates to / integrates into plonky3 or circom.
+- An indication of how your project relates to / integrates into Plonky3 or circom.
 - An indication of why your team is interested in creating this project.
 
 ### Project Details
@@ -34,16 +34,12 @@ We expect teams to already have a solid idea about their project's expected fina
 
 ### Ecosystem Fit
 
-Help us locate your project in the plonky3 or circom landscape and what problems it tries to solve by answering each of these questions:
+Help us locate your project in the Plonky3 or circom landscape and what problems/areas it tries to solve/explore by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience?
-- What need(s) does your project meet?
-- How did you identify these needs? Please provide evidence in the form of (scientific) articles, forum discussions, case studies, or raw data.
 - Are there any other projects similar to yours in the zk ecosystem?
-  - If so, how is your project different? Please identify and assess any projects addressing the same need and explain how your project is distinct. Feel free to include applicable research data, statistics, or metrics.
+  - If so, how is your project/research different? Please identify and assess any projects addressing the same need and explain how your project is distinct. Feel free to include applicable research data, statistics, or metrics.
   - If not, please indicate why such a project might not have been possible, successful, or attempted.
-- Are there any projects similar to yours in related ecosystems?
+- What are the areas that this project 
 
 ## Team :busts_in_silhouette:
 
@@ -55,7 +51,7 @@ Help us locate your project in the plonky3 or circom landscape and what problems
 ### Contact
 
 - **Contact Name:** Full name of the contact person.
-- **Contact Email:** Contact email (e.g., john@duo.com).
+- **Contact Email:** Contact email (e.g., soju@bankai.com).
 
 ### Team's Experience
 
@@ -125,14 +121,11 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 
 - **Estimated Duration:** 1 month
 - **FTE:** 1.5
-- **Costs:** 8,000 USD
+- **Costs:** 6,000 USD
 
 ...
 
-## Future Plans
+## Extended Scope
 
-Please include here:
 
-- How you intend to finance the project's long-term maintenance and development
-- How you intend to use, enhance, and promote your project in the short term
-- The team's long-term plans and intentions in relation to it
+- How you intend to use, enhance, and promote your project in the short term and How do you think this to be incorporated or collaborated with other projects. 
