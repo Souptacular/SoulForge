@@ -19,25 +19,31 @@ As part of our commitment to zero-knowledge(zk) landscape, we are amped to bring
 
 ### Guidelines
 
-Everyone is welcome to apply for a grant. Projects funded through this program **SoulForge** are broad in scope, but our focus lies on strong **technical** projects that are keen to expore and build with **Plonky3, and Circom**
+Everyone is welcome to apply for a grant. Projects part of this program[  **SoulForge**] are broad in scope, but our focus lies on strong **technical** projects that are keen to expore and build with **Plonky3, and Circom**. 
 
-Generally, your project will have better chances to be accepted if:
+**Below are the guidelines,It must fulfill the following requirements:** 
 
-- It presents a **well-researched/detailed** thoughts, for which, ideally, you are able to show some prior work.
-- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side.
-- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You maybe asked to provide the GitHub profiles of your team members as part of your application
-- Your application is **rich in technical details** and well-defined.
-- You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
+- All code/research reports produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT, or Unlicense are also acceptable.
 
-Additionally, it must fulfill the following requirements:
-
-- All code produced as part of a grant must be **open-sourced**, and it must also not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT, or Unlicense are also acceptable.
 - We do not award grants for projects that have been the object of a successful token sale.
+
 - Applications must not mention a specific token. Furthermore, the focus of the application should lie on the software that is being implemented/research being carried out as part of the grant and less on your project/venture/operation. For the purpose of the application and delivery, think about how others might also benefit from your work.
+
 - As a general rule, teams are asked to finish a grant before applying for another one.
 - Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
 
-We require all projects to create documentation that explains how their project works. At a minimum, _written_ documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use your product.
+
+> **Generally, your project will have better chances to be accepted if:**
+
+- It presents a **well-researched/detailed** thoughts, for which, ideally, you are able to show some prior work.
+
+- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side.
+
+- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You maybe asked to provide the GitHub profiles of your team members as part of your application. 
+
+- Your application is **rich in technical details** and well-defined.
+
+- You can clearly present how your project stands out among competitors or implements technology that doesn't exist in the ecosystem yet.
 
 Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your own work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
 
@@ -52,7 +58,7 @@ If you have a **good concept of the technical challenges** that your idea entail
 
 ### Support
 
-The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources. You can find general documentation and more information on [Plonky3](https://docs.polygon.technology/innovation-design/plonky/), and [Circom](https://docs.polygon.technology/zkEVM/concepts/circom-intro-brief/), and we encourage you to join the [community](https://t.me/zkbankai) in order to get help with specific issues or to stay up to date with the most recent developments.
+The scope of our Grants Programs consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources with the mentors of the project. You can find general documentation and more information on [Plonky3](https://docs.polygon.technology/innovation-design/plonky/), and [Circom](https://docs.polygon.technology/zkEVM/concepts/circom-intro-brief/), and we encourage you to join the [community](https://t.me/zkbankai) in order to get help with specific issues or to stay up to date with the most recent developments.
 
 For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
 
