@@ -37,8 +37,11 @@ title: 🇮🇳 Bankai Hacker house
 
 ### ***Social Media Highlights***
 
-<video width="85%" height="440" controls>
-  <source src="../../static/event/video.mp4" type="video/mp4" />
+![event.mp4](https://github.com/user-attachments/assets/4062f6d8-e7b0-4571-9849-bd62e390853c)
+
+
+<video width="550" height="440" controls>
+  <source src="https://github.com/user-attachments/assets/4062f6d8-e7b0-4571-9849-bd62e390853c" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
