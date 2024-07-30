@@ -10,11 +10,6 @@ The committee consists of individuals who know the funding priorities of the zkB
 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
-- [Ayush Bhadauria](#)
-- [Abhishek Sira Chandrashekar](#)
-- [Rishabh Gupta](#)
-- [Aman](#)
-- [Aviral](#)
 - TBD
 - TBD
 
@@ -22,11 +17,8 @@ In cases where a niche expert opinion is desirable, one of the committee members
 
 Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
 
-- [Ayush Bhadauria](#)
-- [Abhishek Sira Chandrashekar](#)
-- [Daniel Lubarov](#)
-- [Harsh Bajpai](#)
-- [Rahul Saxena](#)
-- [Nagu](#)
+<!-- - [Ayush Bhadauria](https://x.com/0xAbix)
+- [Aman](https://x.com/adidshaft)
+- [Abhishek Sira Chandrashekar](https://x.com/abhiarys) -->
 - TBD
 - TBD

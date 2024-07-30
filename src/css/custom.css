@@ -43,6 +43,7 @@
 
 .footer__link-item {
   text-decoration: none;
+  font-weight: 500;
 }
 
 .footer__link-item:hover {
@@ -68,7 +69,7 @@
 
 .footer--dark {
   --ifm-footer-background-color: #000;
-  background-image: url("https://wallpapers.com/images/featured/bankai-uv8g2zeizk1joqzm.webp");
+  background-image: url("../../static/img/footer-background.png");
   background-size: cover;
 }
 
@@ -173,4 +174,20 @@ details {
   border: 1px solid;
   border-radius: 4px;
   padding: 10px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 16px;
+}
+.grid-item {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+.grid-item img {
+  width: 100%;
+  height: auto;
+  display: block;
 }

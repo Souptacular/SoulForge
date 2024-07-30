@@ -12,7 +12,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',    // Revert back to 'throw' once initial release is up
   onBrokenMarkdownLinks: 'ignore',
-  favicon: 'img/zk.png',
+  favicon: 'img/fav.png',
   organizationName: 'zkbankai', // Usually your GitHub org/user name.
   trailingSlash: false,
   projectName: 'SoulForge', // Usually your repo name.
@@ -32,10 +32,10 @@ module.exports = {
       autoCollapseCategories: true,
     },
     navbar: {
-      title: 'SoulForge Program',
+      title: '',
       logo: {
         alt: 'SoulForge Program',
-        src: 'img/zk.png',
+        src: 'img/logo.svg',
       },
       items: [
         {
@@ -80,7 +80,7 @@ module.exports = {
             },
             {
               label: 'Grants Community Telegram Channel',
-              href: 't.me/grants-community',
+              href: 'https://t.me/soulforge',
             },
           ],
         },
