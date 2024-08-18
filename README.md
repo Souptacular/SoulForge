@@ -1,76 +1,42 @@
-# SoulForge<!-- omit in toc -->
+# SoulForge ⚡️<!-- omit in toc -->
 
 - [:wave: Introduction](#wave-introduction)
-  - [Guidelines](#guidelines)
   - [Project Ideas](#project-ideas)
-  - [Support](#support)
   - [Team](#team)
 - [:pencil: Process](#pencil-process)
   - [1. Application](#1-application)
   - [2. Application Review](#2-application-review)
   - [3. Delivery and Payment](#3-delivery-and-payment)
 - [:mailbox\_with\_mail: Suggest a Project](#mailbox_with_mail-suggest-a-project)
+- [Guidelines](#guidelines)
+-  [Support](#support)
 
 ## :wave: Introduction
 
-As part of our commitment to zero-knowledge(zk) landscape, we are amped to bring a comprehensive grants program focused on Supporting development, research and education efforts related to **[Plonky3](https://github.com/Plonky3/Plonky3), and [circom](https://github.com/iden3/circom)** Supported by **Polygon Labs 💜**.
+As part of our commitment to zero-knowledge(zk) landscape, we are amped to bring a comprehensive grants program focused on Supporting innovative development, research and education efforts close to **[Plonky3](https://github.com/Plonky3/Plonky3), and [circom](https://github.com/iden3/circom)** Supported by **Polygon Labs 💜**.
 
- For more information about zkBankai, please visit our page [here](https://soulforge-zkbankai.netlify.app/).
-
-### Guidelines
-
-Everyone is welcome to apply for a grant. Projects part of this program[  **SoulForge**] are broad in scope, but our focus lies on strong **technical** projects that are keen to explore and build with **[Plonky3](https://github.com/Plonky3/Plonky3), and [circom](https://github.com/iden3/circom)** 
-
-**Below are the guidelines, It must fulfil the following requirements:** 
-
-- All code/research reports produced as part of a grant must be **open-sourced** and not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT, or Unlicense are acceptable.
-
-- We do not award grants for projects that have been the object of a successful token sale.
-
-- Applications must not mention a specific token. Furthermore, the focus of the application should lie on the software being implemented/research being carried out as part of the grant and less on your project/venture/operation. For the application and delivery, think about how others might also benefit from your work.
-
-- As a general rule, teams are asked to finish a grant before applying for another one.
-- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
+ For more information about [zkBankai](https://soulforge-zkbankai.netlify.app/), Or any questions/thoughts or just want to hangout with the gigachads in the zk space [**Join here**](https://t.me/zkbankaiSoulforge)⚡️.
 
 
-> **Generally, your project will have better chances to be accepted if:**
+## 💡 Project Ideas
 
-- It presents **well-researched/detailed** thoughts, for which, ideally, you can show some prior work.
+An overview of existing projects in the zkBankai repo, Along with broad project ideas we would potentially be interested in supporting, can be found [here](/docs/build-open-source.md).
 
-- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side.
-
-- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You may be asked to provide the GitHub profiles of your team members as part of your application. 
-
-- Your application is **rich in technical details** and well-defined.
-
-- You can present how your project stands out among competitors or implement technology that doesn't exist in the ecosystem yet.
-
-Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
-
-
-### Project Ideas
-
-An overview of existing projects in the zkBankai Technology Stack, along with broad project ideas we would potentially be interested in funding, can be found [here](/docs/build-open-source.md), as well as a list of previously accepted applications [here](/applications/index.md).
-
-Finally, you don't need to start your project to be eligible for a grant. Instead, some teams choose to port existing work to Plonky3, or Circom, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project.
+Finally, you don't need to start your project to be eligible for this grant program. Instead, some teams choose to port existing work to Plonky3, or Circom, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project.
 
 If you have a **good concept of the technical challenges** that your idea entails and would like feedback/input before submitting it, you can send us an [email](mailto:gm@zkbankai.com) and tell us about it.
 
-### Support
 
-The scope of this program consists of funding and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources with the mentors of the project. You can find general documentation and more information on [Plonky3](https://docs.polygon.technology/innovation-design/plonky/), and [Circom](https://docs.polygon.technology/zkEVM/concepts/circom-intro-brief/), and we encourage you to join the [community](https://t.me/zkbankai) to get help with specific issues or to stay up to date with the most recent developments.
+## 👏 Team
 
-For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
-
-### Team
-
-#### SoulForge Grants Committee<!-- omit in toc -->
+**SoulForge Grants Mentors and Support Committee**<!-- omit in toc -->
 
 The committee consists of prominent individuals and organizations, With our aim to foster more advancement and exploration to [**Plonky3, and Circom**] we have an independent board of individuals committed to the advancement of the zk ecosystem and are responsible for evaluating the applications and providing feedback on these.
 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
 - Harsh Bajpai, zkBankai core 
+- danilo 
 - Ayush Bhadauria, Polygon Labs 
 
 #### SoulForge Grants Evaluators
@@ -104,9 +70,51 @@ Evaluators are individuals able to evaluate the technology delivered as a result
 
 ### 3. Delivery and Payment
 
-Milestones are monitored from the submitted project's GitHub account. Once a milestone is completed, the SoulForge team will have a 30-minute call with the project team to review the milestone. Upon approval, the grant team will be notified, and the milestone grants will be coordinated accordingly (as mentioned in the application).
+Milestones are monitored from the submitted project's GitHub account. Once a milestone is completed, the SoulForge team [Mentors] will have a 30-minute call with the project team to review the milestone. Upon approval, the grant team will be notified, and the milestone grants will be coordinated accordingly (as mentioned in the application).
 
 
 ## :mailbox_with_mail: Suggest a Project
 
-If you think that we should support the development of certain tools or projects that aren't in the ZK tech stack, feel free to submit a suggestion using the process described below. We are particularly interested in supporting projects that could be leveraged by other builders in our ecosystem.
+If you think that we should support the development of certain tools or projects that aren't in the zk tech stack, feel free to submit a suggestion using the process described above. 
+
+We are particularly interested in supporting projects that could be leveraged by other builders in the zk ecosystem.
+
+## ❣ Guidelines
+
+Everyone is welcome to apply for a grant. Projects part of this program[  **SoulForge**] are broad in scope, but our focus lies on strong **technical** projects that are keen to explore and build with **[Plonky3](https://github.com/Plonky3/Plonky3), and [circom](https://github.com/iden3/circom)** 
+
+**Below are the guidelines, It must fulfil the following requirements:** 
+
+- All code/research reports produced as part of a grant must be **open-sourced** and not rely on closed-source software for full functionality. We prefer Apache 2.0, but GPLv3, MIT, or Unlicense are acceptable.
+
+- We do not award grants for projects that have been the object of a successful token sale.
+
+- Applications must not mention a specific token. Furthermore, the focus of the application should lie on the software being implemented/research being carried out as part of the grant and less on your project/venture/operation. For the application and delivery, think about how others might also benefit from your work.
+
+- As a general rule, teams are asked to finish a grant before applying for another one.
+- Lastly, we do not fund projects that actively encourage gambling, illicit trade, money laundering, or criminal activities in general.
+
+
+> **Generally, your project will have better chances to be accepted if:**
+
+- It presents **well-researched/detailed** thoughts, for which, ideally, you can show some prior work.
+
+- You can demonstrate that the project will be **maintained** after completion of the grant, be it through an obvious commitment to the technology from your side.
+
+- Your team has **proven experience** with the relevant languages and technologies and/or a strong technical background. You may be asked to provide the GitHub profiles of your team members as part of your application. 
+
+- Your application is **rich in technical details** and well-defined.
+
+- You can present how your project stands out among competitors or implement technology that doesn't exist in the ecosystem yet.
+
+Finally, we take licensing and the right of all teams in and outside the ecosystem to be recognised for their work very seriously. Using others' work with no attribution or indication that this was not your work as part of a milestone delivery **will lead to immediate termination**. Please reach out to us before submitting if you have any doubts on how to comply with a specific license and we'll be happy to help.
+
+## 🫶 Support
+
+The scope of this program consists of grants and feedback on delivered milestones. This means that we do not provide hands-on support as part of a grant, but if you face specific issues during development, we will do our best and try to direct you to the correct resources with the mentors of the project. 
+
+You can find general documentation and more information on [Plonky3](https://docs.polygon.technology/innovation-design/plonky/), and [Circom](https://docs.polygon.technology/zkEVM/concepts/circom-intro-brief/), and we encourage you to join the [**community**](https://t.me/zkbankaiSoulforge)✨ to get help with specific issues or to stay up to date with the most recent developments.
+
+For questions about the grants program itself, see our [FAQ](docs/faq.md#frequently-asked-questions).
+
+**Additionally If you have any questions and want to reach out to the Polygon Team Join here** [ Polygon R&D Discord ](https://discord.gg/0xpolygonRnD)
