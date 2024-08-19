@@ -20,7 +20,7 @@ As part of our commitment to zero-knowledge(zk) landscape, we are amped to bring
 
 ## 💡 Project Ideas
 
-An overview of existing projects in the zkBankai repo, Along with broad project ideas we would potentially be interested in supporting, can be found [here](/docs/build-open-source.md).
+An overview of existing projects in the zkBankai repo, Along with broad project ideas we would potentially be interested in supporting, can be found [here](https://docs.google.com/document/d/1jl3ofy0jNSe3yQkVpsMO59_mIxoLljEVViNsVoBKzlI/edit?usp=sharing).
 
 Finally, you don't need to start your project to be eligible for this grant program. Instead, some teams choose to port existing work to Plonky3, or Circom, where the pertinent licenses allow, or even to contribute to an existing open-source project. In the latter case, you should check in advance that the maintainers of the project are interested in your contribution, and the acceptance of the milestones will generally be tied to the inclusion of your work in said project.
 
@@ -36,7 +36,7 @@ The committee consists of prominent individuals and organizations, With our aim 
 In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
 
 - Harsh Bajpai, zkBankai core 
-- danilo 
+- Danilo, ex Co-Founder, kakarot zkEVM 
 - Ayush Bhadauria, Polygon Labs 
 
 #### SoulForge Grants Evaluators
@@ -45,6 +45,7 @@ Evaluators are individuals able to evaluate the technology delivered as a result
 
 - Diego Kingston, Co-Founder, Aligned layer
 - RJ, Co-Founder, Aligned layer
+- [ More joining soon ]
 
 ## :pencil: Process
 
