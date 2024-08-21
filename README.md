@@ -9,7 +9,7 @@
   - [3. Delivery and Payment](#3-delivery-and-payment)
 - [:mailbox\_with\_mail: Suggest a Project](#mailbox_with_mail-suggest-a-project)
 - [Guidelines](#guidelines)
--  [Support](#support)
+-  [Support](https://github.com/zk-bankai/SoulForge/blob/main/README.md#-support)
 
 ## :wave: Introduction
 
