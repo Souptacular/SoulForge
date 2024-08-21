@@ -1,14 +1,14 @@
 # SoulForge ⚡️<!-- omit in toc -->
 
 - [:wave: Introduction](#wave-introduction)
-  - [Project Ideas](#project-ideas)
-  - [Team](#team)
+  - [Project Ideas](https://github.com/zk-bankai/SoulForge#-project-ideas)
+  - [Team](https://github.com/zk-bankai/SoulForge#-team)
 - [:pencil: Process](#pencil-process)
   - [1. Application](#1-application)
   - [2. Application Review](#2-application-review)
   - [3. Delivery and Payment](#3-delivery-and-payment)
 - [:mailbox\_with\_mail: Suggest a Project](#mailbox_with_mail-suggest-a-project)
-- [Guidelines](#guidelines)
+- [Guidelines](https://github.com/zk-bankai/SoulForge#-guidelines)
 -  [Support](https://github.com/zk-bankai/SoulForge/blob/main/README.md#-support)
 
 ## :wave: Introduction
