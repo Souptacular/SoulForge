@@ -53,7 +53,7 @@ Evaluators are individuals able to evaluate the technology delivered as a result
 
 ### 1. Application
 
-  1. Please read our [FAQs](../faq.md), to familiarize yourself with the subtleties of grants, applications and the program as a whole.
+  1. Please read our [FAQs](docs/faq.md), to familiarize yourself with the subtleties of grants, applications and the program as a whole.
    2. [Fork](https://github.com/zk-bankai/SoulForge) our grants program repository.
    3. In the newly created fork, create a copy of the [application template](applications/application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/soulforge/soulforge/master/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
    4. Name the new file after your project: `project_name.md`.
