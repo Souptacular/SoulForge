@@ -33,19 +33,20 @@ If you have a **good concept of the technical challenges** that your idea entail
 
 The committee consists of prominent individuals and organizations, With our aim to foster more advancement and exploration to [**Plonky3, and Circom**] we have an independent board of individuals committed to the advancement of the zk ecosystem and are responsible for evaluating the applications and providing feedback on these.
 
-In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
-
-- Harsh Bajpai, zkBankai core 
-- Danilo, ex Co-Founder, kakarot zkEVM 
-- Ayush Bhadauria, Polygon Labs 
-
-#### SoulForge Grants Evaluators
+### SoulForge Grants Evaluators
 
 Evaluators are individuals able to evaluate the technology delivered as a result of the Grants Program. The committee has the right to add or remove evaluators on the basis of supermajority.
 
 - Diego Kingston, Co-Founder, Aligned layer
 - RJ, Co-Founder, Aligned layer
 - [ More joining soon ]
+
+In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
+
+- Harsh Bajpai, zkBankai core 
+- Danilo, ex Co-Founder, kakarot zkEVM 
+- Ayush Bhadauria, Polygon Labs 
+
 
 ## :pencil: Process
 
